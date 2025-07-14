@@ -1,4 +1,4 @@
-package com.egov.matchservice;
+package com.ecomm.productservice;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -8,9 +8,9 @@ import org.springframework.stereotype.Service;
 import org.springframework.web.reactive.function.client.WebClient;
 
 @Service
-public class TokenService
+public class TokenService1
 {
-    private static final Logger log = LoggerFactory.getLogger(TokenService.class);
+    private static final Logger log = LoggerFactory.getLogger(TokenService1.class);
 
     @Autowired
     private ApplicationContext ctx;

@@ -1,4 +1,4 @@
-package com.egov.matchservice;
+package com.ecomm.productservice;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
