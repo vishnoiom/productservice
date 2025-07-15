@@ -7,7 +7,7 @@ import org.springframework.context.ApplicationContext;
 import org.springframework.stereotype.Service;
 import org.springframework.web.reactive.function.client.WebClient;
 
-@Service
+//@Service
 public class TokenService1
 {
     private static final Logger log = LoggerFactory.getLogger(TokenService1.class);
